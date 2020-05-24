@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,13 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: Created a stopwatch using JS not styled.
+
+**Thoughts** Used if statements to capture all the use cases, can be cleaned up by extracting repetead methods to variables
+
+**Link(s) to work**
+1. [Stop Watch Repo](https://github.com/ebami/stopwatch)
