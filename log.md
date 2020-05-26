@@ -36,13 +36,22 @@
 **Thoughts** Used if statements to capture all the use cases, can be cleaned up by extracting repetead methods to variables
 
 **Link(s) to work**
-1. [Stop Watch Repo](https://github.com/ebami/stopwatch)
+1. [Stop Watch Repo](https://github.com/ebami/JSProjects/tree/master/Stopwatch)
 
-### Day 1: May 25, Monday
+### Day 2: May 25, Monday
 
 **Today's Progress**: Styled the stopwatch and added behavioural changes.
 
 **Thoughts** Styled stopwatch and added some javascript to disable appropriate buttons if the stopwatch is active
 
 **Link(s) to work**
-1. [Stop Watch Repo](https://github.com/ebami/stopwatch)
+1. [Stop Watch Repo](https://github.com/ebami/JSProjects/tree/master/Stopwatch)
+
+### Day 3: May 25, Monday
+
+**Today's Progress**: Created TicTacToe Game.
+
+**Thoughts** Went through freecode camp es6 tutorial an created a tictactoe game
+
+**Link(s) to work**
+1. [TicTacToe Code](https://github.com/ebami/JSProjects/tree/master/TicTacToe)
