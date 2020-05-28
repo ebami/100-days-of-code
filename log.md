@@ -47,11 +47,20 @@
 **Link(s) to work**
 1. [Stop Watch Repo](https://github.com/ebami/JSProjects/tree/master/Stopwatch)
 
-### Day 3: May 25, Monday
+### Day 3: May 26, Tuesday
 
 **Today's Progress**: Created TicTacToe Game.
 
-**Thoughts** Went through freecode camp es6 tutorial an created a tictactoe game
+**Thoughts** Went through freecode camp es6 tutorial and created a tictactoe game
 
 **Link(s) to work**
 1. [TicTacToe Code](https://github.com/ebami/JSProjects/tree/master/TicTacToe)
+
+### Day 3: May 27, Wednesday
+
+**Today's Progress**: Introduction to styling in Gatsby
+
+**Thoughts** Started learning how to use gatsby. I want to spin up a static site by the end of next week
+
+**Link(s) to work**
+1. [Tweet with immage of work](https://twitter.com/eman_starr/status/1265815032543285248)
