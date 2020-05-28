@@ -56,7 +56,7 @@
 **Link(s) to work**
 1. [TicTacToe Code](https://github.com/ebami/JSProjects/tree/master/TicTacToe)
 
-### Day 3: May 27, Wednesday
+### Day 4: May 27, Wednesday
 
 **Today's Progress**: Introduction to styling in Gatsby
 
@@ -64,3 +64,12 @@
 
 **Link(s) to work**
 1. [Tweet with immage of work](https://twitter.com/eman_starr/status/1265815032543285248)
+
+### Day 5: May 28, Thursday
+
+**Today's Progress**: Layouts on Gatsby
+
+**Thoughts** The Layout feature seems very useful and will come in handy. I want to spin up a static site by the end of next week
+
+**Link(s) to work**
+1. [Gatsby Layout](https://github.com/ebami/Gatsby/tree/master/tutorial-part-three)
